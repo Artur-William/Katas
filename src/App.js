@@ -5,6 +5,7 @@ function App() {
   return (
     <div>
       <h1>KatoSSS</h1>
+      <p>Helloo</p>
     </div>
   );
 }
