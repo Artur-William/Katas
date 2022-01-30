@@ -1,12 +1,9 @@
 import logo from "./logo.svg";
 import "./App.css";
+import PrimeFactors from "./PrimeFactors";
 
 function App() {
-  return (
-    <div>
-      <h1>Prime</h1>
-    </div>
-  );
+  return <PrimeFactors />;
 }
 
 export default App;
